@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\github\\site-3-shopcarte\\node_modules"
+		},
+		{
+			"path": "..\\..\\github\\site-3-shopcarte\\public"
+		},
+		{
+			"path": "..\\..\\github\\site-3-shopcarte\\src"
+		},
+		{
+			"path": "..\\..\\github\\site-3-shopcarte\\.git"
+		},
+		{
+			"path": "..\\..\\github\\site-3-shopcarte\\build"
+		}
+	],
+	"settings": {}
+}
